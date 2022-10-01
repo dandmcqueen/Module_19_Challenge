@@ -48,7 +48,7 @@ streamlit run pychain.py
 
 The following images shows a fintch professional being selected, a transaction being sent. We can see the clients account listed on the right.  The transaction information is also shown along with the updated trnsaction count and block history.
 
-<p align="center"><img src="Images/overview.JPG"></p>
+<p align="center"><img src="Images/overview.jpg"></p>
 
 
 
