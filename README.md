@@ -1,4 +1,4 @@
-## Module 19 Challenge
+# Module 19 Challenge
 
 In this project, a fintech finder application is integrated with the Ethereum blockchain network. The application is updated to include professional wages, hourly rates in ethereum, and send and sign transactions to the blockchain.  The transaction hash is returned and can be validated through Ganache personal blockchain.
 ---
